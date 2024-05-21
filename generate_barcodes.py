@@ -1,6 +1,5 @@
 import pandas as pd
 import code128
-import urllib
 
 card_df = pd.read_csv('card_info.csv')
 
